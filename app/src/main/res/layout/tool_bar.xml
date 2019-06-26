@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:title="IICS"
+    app:titleTextColor="#000"
+
+    app:subtitle="Information Technology"
+    app:subtitleTextColor="#000"
+
+    android:background="@color/colorPrimary"
+    app:navigationIcon="@drawable/baseline_restaurant_menu_black_18dp"
+    >
+</androidx.appcompat.widget.Toolbar>
